@@ -1,7 +1,7 @@
 site: Made Jekyll Theme
 
-url: 
-baseurl: 
+url: typehuman.github.io
+baseurl: /
 
 collections:
   pages:
