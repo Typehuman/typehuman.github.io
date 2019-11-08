@@ -1,9 +1,9 @@
 basic_settings:
-  site_title: Made
+  site_title: Typehuman
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image: /images/logo.png
   logo_width: 100
 
 menu_settings:
@@ -14,7 +14,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  tagline: We work with you to understand and navigate technological change
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
