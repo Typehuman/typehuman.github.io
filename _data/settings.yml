@@ -9,7 +9,9 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Blog'
-      url: '/'
+      url: '/blog'
+    - title: 'Services'
+      ur;: '/project/about-us'
 
 footer_settings:
   logo_image: 
@@ -31,7 +33,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://www.twitter.com/type_human'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
