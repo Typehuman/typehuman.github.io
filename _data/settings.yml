@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Philosophy'
-      ur;: '/philosophy'
+      url: '/philosophy'
     - title: 'Services'
       ur;: '/project/about-us'
     - title: 'Blog'
