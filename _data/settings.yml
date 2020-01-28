@@ -18,7 +18,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: We work with you to understand and navigate technological change
+  tagline: Technology for People and Planet
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
@@ -28,7 +28,7 @@ post_settings:
 
 contact_settings:
   email_address: ''
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
+  form_action: 'https://formspree.io/hello@typehuman.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Contact Us'
