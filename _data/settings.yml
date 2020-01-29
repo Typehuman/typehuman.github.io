@@ -11,14 +11,14 @@ menu_settings:
     - title: 'Philosophy'
       url: '/philosophy'
     - title: 'Services'
-      ur;: '/project/about-us'
+      url: '/project/about-us'
     - title: 'Blog'
       url: '/blog'
 
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: Technology for People and Planet
+  tagline: Navigating technological change for People and Planet
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
