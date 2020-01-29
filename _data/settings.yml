@@ -12,7 +12,7 @@ menu_settings:
       url: '/philosophy'
     - title: 'Services'
       url: '/project/about-us'
-    - title: 'Blog'
+    - title: 'Our work'
       url: '/blog'
 
 footer_settings:
