@@ -1,0 +1,15 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    {% include post-components/gallery.html
+      columns = 5
+      full_width = true
+      images = "/images/team/kate.jpg,/images/team/nick.jpg,/images/team/pete.jpg
+      "
+    %}
+
+  </div>
+</section>
