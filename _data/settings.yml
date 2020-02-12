@@ -8,14 +8,14 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'About Us'
+      url: '/about-us'
+    - title: 'Case Studies'
+      url: '/blog'
     - title: 'Philosophy'
       url: '/philosophy'
-    - title: 'Services'
-      url: '/project/about-us'
-    - title: 'Our work'
-      url: '/blog'
-    - title: 'Careers'
-      url: '/blog'
+    - title: 'Expertise'
+      url: '/expertise'
 
 footer_settings:
   logo_image: 
