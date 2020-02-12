@@ -14,6 +14,8 @@ menu_settings:
       url: '/project/about-us'
     - title: 'Our work'
       url: '/blog'
+    - title: 'Careers'
+      url: '/blog'
 
 footer_settings:
   logo_image: 
