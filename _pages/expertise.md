@@ -6,7 +6,8 @@ featured_image: /images/social.jpg
 ---
 
 We support organisations looking to incorporate emerging technology into their world. We do this by offering three core services:
- 
+
+
 **Strategy & Advisory:** we provide executive level advisory services to help you understand the fundamentals of technological change. In building this understanding, we define the exponential opportunities that are dawninge, while also communicating the threats inherent in a range of solutions.
  
 **Design research:** We combine deep expertise in established and emerging technology with proven design and research principles. This work engages our team of service designers, experience designers, technologists and product designers, and seeks to understand problems, navigate complexities, explore connections, and distil insights and wisdom to inform a range of tailored solutions.
@@ -17,8 +18,7 @@ We support organisations looking to incorporate emerging technology into their w
 ## Our Domain Expertise
 
 We believe in the power of emerging technology to build a better world. Our work encompasses three primary themes where we believe the greatest opportunities exist for the application emerging technology:
- 
- 
+
 ### New Economics & Finance  
 With the emergence of blockchain technology, the world has been inspired to reinvent finance. How we send money around the world, issue debt, build and run financial markets, and govern financial agreements are all being rebuilt with blockchain technology. This presents extraordinary opportunities to improve access, security and privacy, speed, and trust. Tailored solutions can also be built that enable the creation and execution of “smart contracts”, delivering a range of benefits to all parties involved in a transaction.
 
