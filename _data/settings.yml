@@ -11,7 +11,7 @@ menu_settings:
     - title: 'About Us'
       url: '/about-us'
     - title: 'Case Studies'
-      url: '/blog'
+      url: '/projects'
     - title: 'Philosophy'
       url: '/philosophy'
     - title: 'Expertise'
