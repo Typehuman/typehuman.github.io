@@ -8,9 +8,9 @@
 
 {% assign images = include.images | split: "," %}
 
-<div class="{% if include.full_width == true %}full-width{% endif %}" data-columns="{{ columns }}">
+<div class="gallery-flex {% if include.full_width == true %}full-width{% endif %}" data-columns="{{ columns }}">
 	{%- for image in images -%}
-		<div class="gallery-flex-item">
+		<div class="gallery-flex__item">
 			<img src="{{ image }}">
 		</div>
 	{%- endfor -%}
