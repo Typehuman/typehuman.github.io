@@ -5,9 +5,9 @@
 // - - - - - - - - - - - - - - - - - -
 
 .footer {
+	background: #09062E;
 	@include transition(all 0.4s ease-in-out 0.8s);
 	padding: 64px 0;
-
 	.footer__logo {
 		justify-self: center;
 	}
@@ -18,7 +18,7 @@
 	    font-weight: $sitetitle-weight;
 	    letter-spacing: $sitetitle-spacing;
 	    line-height: 1;
-	    color: $text-dark-color;
+	    color: #FFFFFF;
 
 	    @include mq(tabletp) {
 	      font-size: $sitetitle-medium;
@@ -34,11 +34,10 @@
 	}
 	
 	.footer__copyright {
-
+		color: #FFFFFF;
 		@include mq(tabletp) {
 			justify-self: center;
 			align-self: center;
-			text-align: right;
 		}
 
 		p {
@@ -50,7 +49,7 @@
 		padding: 80px 0;
 
 		.wrap {
-			grid-template-columns: 1fr 1fr;
+			grid-template-columns: 1fr;
 		}
 
 		.footer__logo {
