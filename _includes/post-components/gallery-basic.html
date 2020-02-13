@@ -1,0 +1,17 @@
+{%- capture columns -%}
+	{%- if include.columns -%}
+		{{ include.columns }}
+	{%- else -%}
+		2
+	{%- endif -%}
+{%- endcapture -%}
+
+{% assign images = include.images | split: "," %}
+
+<div class="{% if include.full_width == true %}full-width{% endif %}" data-columns="{{ columns }}">
+	{%- for image in images -%}
+		<div class="gallery-flex-item">
+			<img src="{{ image }}">
+		</div>
+	{%- endfor -%}
+</div>
