@@ -1,15 +1,11 @@
-<section class="about">
-  {% if include.divider == true %}
-    <div class="wrap"><hr/></div>
-    {% endif %}
-  <div class="wrap grid">
+<section class="wrap partners">
+      <header class="recent-posts__header">
+        <h4>Our Clients, Partners & Friends</h4>
+      </header>
 
-    {% include post-components/gallery.html
-      columns = 5
-      full_width = true
-      images = "/images/team/kate.jpg,/images/team/nick.jpg,/images/team/pete.jpg
-      "
-    %}
-
-  </div>
+      {% include post-components/gallery.html
+        columns = 5
+        full_width = true
+        images = "/images/partners/arc.jpg,/images/partners/flexdapps.jpg,/images/partners/oxfam.png,/images/partners/redr.jpeg,/images/partners/rmit.png,/images/partners/smallgiants.png,/images/partners/swinburne.png,"
+      %}
 </section>
