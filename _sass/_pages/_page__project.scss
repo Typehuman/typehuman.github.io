@@ -7,14 +7,37 @@
 .page-project {
   @extend .page-post;
 
-  .post__subtitle {
-    margin-bottom: 48px;
-    max-width: 556px;
+  @include mq(tabletp) {
+    .post__subtitle {
+      margin-bottom: 0;
+      max-width: 556px;
+    }
+
+    .post__title {
+      margin-bottom: 20px;
+    }
   }
 
   .post__content {
     hr {
       background-color: var(--accent);
+    }
+
+    .content__inner {
+      margin-bottom: 60px;
+    }
+
+    .project-results__heading {
+      margin-top: 0;
+    }
+
+    img {
+      float: left;
+      margin-right: 30px;
+    }
+
+    .clearfix {
+      clear: both;
     }
 
     blockquote {
