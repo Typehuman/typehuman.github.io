@@ -20,3 +20,40 @@
 		padding: 56px 0 120px;
 	}
 }
+
+.gallery-about {
+	display: grid;
+
+
+	@include mq(phonel) {
+		grid-template-columns: 1fr;
+	}
+	
+	@include mq(tabletp) {
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	}
+
+	.gallery-about__inner {
+		text-align: center;
+	}
+
+	.gallery-about__inner a {
+		margin: 0;
+	}
+
+	.gallery-about__item {
+		max-width: 220px;
+		margin: 0 15px;
+
+		@include mq(phonel) {
+			margin: 0 auto;
+		}
+	}
+
+	.gallery-about__image {
+		max-width: 190px;
+		overflow: hidden;
+		border-radius: 5px;
+		margin-bottom: 20px;
+	}
+}
