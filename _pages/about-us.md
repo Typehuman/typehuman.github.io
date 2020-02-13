@@ -14,7 +14,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 <div class="gallery-about">
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/kate.jpg" /></a>
+			<img src="/images/team/kate.jpg" />
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Kate Buttigieg</strong><br />
@@ -24,7 +24,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/nick.jpg"></a>
+			<img src="/images/team/nick.jpg">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Nick Byrne</strong><br />
@@ -34,7 +34,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/pete.jpg"></a>
+			<img src="/images/team/pete.jpg">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Pete Ince</strong><br />
@@ -44,7 +44,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/pete.jpg"></a>
+			<img src="/images/team/pete.jpg">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Pete Ince</strong><br />
@@ -54,7 +54,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/pete.jpg"></a>
+			<img src="/images/team/pete.jpg">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Pete Ince</strong><br />
@@ -64,7 +64,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/pete.jpg"></a>
+			<img src="/images/team/pete.jpg">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Pete Ince</strong><br />
@@ -74,7 +74,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<a href=""><img src="/images/team/pete.jpg"></a>
+			<img src="/images/team/pete.jpg">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Pete Ince</strong><br />
