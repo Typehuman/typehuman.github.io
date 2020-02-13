@@ -11,9 +11,8 @@ We offer strategic advisory, design, and research consulting along with cutting 
 
 Our team is passionate about harnessing emerging technology to protect human dignity and improve the world around us. We'd love to hear from you.
 
-{% include post-components/gallery.html
-	columns = 5
-	full_width = true
-	images = "/images/team/kate.jpg,/images/team/nick.jpg,/images/team/pete.jpg
-	"
-%}
+<div class="gallery full-width" data-columns="5">
+	<img src="/images/team/kate.jpg">
+	<img src="/images/team/nick.jpg">
+	<img src="/images/team/pete.jpg">
+</div>
