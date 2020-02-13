@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Our People
 subtitle: Welcome to TypeHuman.
 description: Welcome to TypeHuman.
 featured_image: /images/social.jpg
@@ -19,7 +19,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 		<div class="gallery-about__inner">
 			<p><strong>Kate Buttigieg</strong><br />
 			Product Manager<br />
-			<a href="">LinkedIn</a></p>
+			<a href="https://www.linkedin.com/in/kate-buttigieg-6323a890/">LinkedIn</a></p>
 		</div>
 	</div>
 	<div class="gallery-about__item">
@@ -28,18 +28,8 @@ Our team is passionate about harnessing emerging technology to protect human dig
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Nick Byrne</strong><br />
-			CEO<br />
-			<a href="">LinkedIn</a></p>
-		</div>
-	</div>
-	<div class="gallery-about__item">
-		<div class="gallery-about__image">
-			<img src="/images/team/pete.jpg">
-		</div>
-		<div class="gallery-about__inner">
-			<p><strong>Pete Ince</strong><br />
-			CEO<br />
-			<a href="">LinkedIn</a></p>
+			Director<br />
+			<a href="https://www.linkedin.com/in/nbyrne/">LinkedIn</a></p>
 		</div>
 	</div>
 	<div class="gallery-about__item">
@@ -49,37 +39,17 @@ Our team is passionate about harnessing emerging technology to protect human dig
 		<div class="gallery-about__inner">
 			<p><strong>Pete Ince</strong><br />
 			CTO<br />
-			<a href="">LinkedIn</a></p>
+			<a href="https://www.linkedin.com/in/peterince/">LinkedIn</a></p>
 		</div>
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/pete.jpg">
+			<img src="/images/team/kaj.jpg">
 		</div>
 		<div class="gallery-about__inner">
-			<p><strong>Pete Ince</strong><br />
-			CEO<br />
-			<a href="">LinkedIn</a></p>
-		</div>
-	</div>
-	<div class="gallery-about__item">
-		<div class="gallery-about__image">
-			<img src="/images/team/pete.jpg">
-		</div>
-		<div class="gallery-about__inner">
-			<p><strong>Pete Ince</strong><br />
-			CEO<br />
-			<a href="">LinkedIn</a></p>
-		</div>
-	</div>
-	<div class="gallery-about__item">
-		<div class="gallery-about__image">
-			<img src="/images/team/pete.jpg">
-		</div>
-		<div class="gallery-about__inner">
-			<p><strong>Pete Ince</strong><br />
-			CEO<br />
-			<a href="">LinkedIn</a></p>
+			<p><strong>Kaj Lofgren</strong><br />
+			Director<br />
+			<a href="https://www.linkedin.com/in/kaj-lofgren-0b787726/">LinkedIn</a></p>
 		</div>
 	</div>
 </div>
