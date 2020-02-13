@@ -1,7 +1,7 @@
 ---
 layout: default
 overtitle: Technology & Design Studio
-title: Navigating technological change
+title: Solve Problems that Matter
 featured_image: /images/social.jpg
 ---
 <!-- description field can be added above -->
@@ -25,6 +25,12 @@ featured_image: /images/social.jpg
 		</div>
 	</section>
 
+
+	{% include section__partners.html %}
+
+	{% include section__our-work.html %}
+
+<!--
 	<section class="listing">
 		<div class="wrap">
 
@@ -54,18 +60,17 @@ featured_image: /images/social.jpg
 			{% endfor %}
 		</div>
 	</section>
-
-	{% include section__partners.html %}
+-->
 
 	<section class="recent-posts">
 		<div class="wrap grid">
 			<header class="recent-posts__header">
 				<h4>Case studies</h4>
-				<a href="{{ '/blog' | relative_url }}" class="action button--text--accent --right">All Posts</a>
+				<a href="{{ '/projects' | relative_url }}" class="action button--text--accent --right">Learn more</a>
 			</header>
 
 			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 3 %}
+				{% for post in site.projects limit: 3 %}
 				{% include component__post-preview.html %}
 				{% endfor %}
 			</div>
