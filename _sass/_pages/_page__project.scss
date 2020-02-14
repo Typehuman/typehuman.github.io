@@ -9,7 +9,7 @@
 
 
   .post__title {
-    font-size: 22px;
+    font-size: 34px;
   }
 
   @include mq(tabletp) {
@@ -20,7 +20,7 @@
     }
 
     .post__title {
-      margin-bottom: 20px;
+      margin-bottom: 0;
     }
   }
 
@@ -44,6 +44,7 @@
 
     .project-results__heading {
       margin-top: 0;
+      font-size: 23px;
     }
 
     img {
