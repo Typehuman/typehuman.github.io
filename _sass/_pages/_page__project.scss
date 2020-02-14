@@ -7,7 +7,13 @@
 .page-project {
   @extend .page-post;
 
+
+  .post__title {
+    font-size: 22px;
+  }
+
   @include mq(tabletp) {
+
     .post__subtitle {
       margin-bottom: 0;
       max-width: 556px;
@@ -64,6 +70,10 @@
     .gallery--carousel .owl-dot.active::after {
       background: var(--accent);
     }
+  }
+  
+  .recent-posts__header h4 {
+    font-size: 24px;
   }
 
   .all-posts {
