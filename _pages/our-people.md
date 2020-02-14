@@ -14,6 +14,36 @@ Our team is passionate about harnessing emerging technology to protect human dig
 <div class="gallery-about">
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
+			<img src="/images/team/anthony.jpg" />
+		</div>
+		<div class="gallery-about__inner">
+			<p><strong>Anthony Cole</strong><br />
+			Software Developer<br />
+			<a href="https://www.linkedin.com/in/anthonyccole/">LinkedIn</a></p>
+		</div>
+	</div>
+	<div class="gallery-about__item">
+		<div class="gallery-about__image">
+			<img src="/images/team/asif.jpg" />
+		</div>
+		<div class="gallery-about__inner">
+			<p><strong>Asif Norzai</strong><br />
+			Software Developer<br />
+			<a href="https://www.linkedin.com/in/asifnorzai/">LinkedIn</a></p>
+		</div>
+	</div>
+	<div class="gallery-about__item">
+		<div class="gallery-about__image">
+			<img src="/images/team/kaj.jpg">
+		</div>
+		<div class="gallery-about__inner">
+			<p><strong>Kaj Lofgren</strong><br />
+			Director<br />
+			<a href="https://www.linkedin.com/in/kaj-lofgren-0b787726/">LinkedIn</a></p>
+		</div>
+	</div>
+	<div class="gallery-about__item">
+		<div class="gallery-about__image">
 			<img src="/images/team/kate.jpg" />
 		</div>
 		<div class="gallery-about__inner">
@@ -40,16 +70,6 @@ Our team is passionate about harnessing emerging technology to protect human dig
 			<p><strong>Pete Ince</strong><br />
 			CTO<br />
 			<a href="https://www.linkedin.com/in/peterince/">LinkedIn</a></p>
-		</div>
-	</div>
-	<div class="gallery-about__item">
-		<div class="gallery-about__image">
-			<img src="/images/team/kaj.jpg">
-		</div>
-		<div class="gallery-about__inner">
-			<p><strong>Kaj Lofgren</strong><br />
-			Director<br />
-			<a href="https://www.linkedin.com/in/kaj-lofgren-0b787726/">LinkedIn</a></p>
 		</div>
 	</div>
 </div>
