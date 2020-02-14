@@ -79,6 +79,10 @@
 
   .all-posts {
     margin-top: 48px;
+
+    .post__title {
+      font-size: 22px;
+    }
   }
 
   @include mq(tabletp) {
