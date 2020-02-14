@@ -64,6 +64,16 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
+			<img src="/images/team/paco.jpg">
+		</div>
+		<div class="gallery-about__inner">
+			<p><strong>Francisco "Paco" Flores</strong><br />
+			UX/UI Designer<br />
+			<a href="https://www.linkedin.com/in/franciscofloresc/">LinkedIn</a></p>
+		</div>
+	</div>
+	<div class="gallery-about__item">
+		<div class="gallery-about__image">
 			<img src="/images/team/pete.jpg">
 		</div>
 		<div class="gallery-about__inner">
