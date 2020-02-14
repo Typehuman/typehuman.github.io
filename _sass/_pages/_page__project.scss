@@ -68,10 +68,7 @@
 
   .all-posts {
     margin-top: 48px;
-
-    .posts__list {
-      grid-row-gap: 56px;
-    }
+  }
 
   @include mq(tabletp) {
     .post__subtitle {
