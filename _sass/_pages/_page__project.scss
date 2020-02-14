@@ -18,6 +18,15 @@
     }
   }
 
+  .header--single {
+    padding-bottom: 40px;
+  }
+
+  .header--single .header__title {
+    font-size: 32px;
+    margin-bottom: 0;
+  }
+
   .post__content {
     hr {
       background-color: var(--accent);
@@ -56,6 +65,13 @@
       background: var(--accent);
     }
   }
+
+  .all-posts {
+    margin-top: 48px;
+
+    .posts__list {
+      grid-row-gap: 56px;
+    }
 
   @include mq(tabletp) {
     .post__subtitle {
