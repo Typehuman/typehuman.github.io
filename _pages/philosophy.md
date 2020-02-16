@@ -1,7 +1,7 @@
 ---
 title: Our Philosophy
-subtitle: Our Guiding Philosophy - Emerging Technology in our Evolutionary Moment.
-description: Our Guiding Philosophy - Emerging Technology in our Evolutionary Moment.
+subtitle: Emerging Technology in our Evolutionary Moment.
+description: Emerging Technology in our Evolutionary Moment.
 featured_image: /images/social.jpg
 ---
 It has been said that meaningful social change moves at the pace of trust. The past decade has seen a rapid wave of new technology that was captured by a relatively small group of people. This group dramatically breached the public’s trust in a  myriad of ways, resulting in tangible and damaging negative impacts for people. [The Centre for Humane Technology](https://humanetech.com/problem/) groups these negative impacts in six areas: 

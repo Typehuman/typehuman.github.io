@@ -3,7 +3,7 @@
 
 		{% if site.data.settings.footer_settings.logo_image %}
 		<a href="{{ site.baseurl }}/" class="footer__logo">
-			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img">
+			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img" width="{{ site.data.settings.footer_settings.logo_width }}">
 		</a>
 		{% else %}
 		<a href="{{ site.baseurl }}/" class="footer__title">
@@ -13,9 +13,9 @@
 
 		<div class="footer__copyright">
 
-			<p>TypeHuman is located on the traditional lands of the Wurundjeri people of the Kulin Nation. We pay our respects to Elders past, present and emerging.</p>
+			<p>TypeHuman is located on the traditional lands of the Wurundjeri people of the Kulin Nation. We pay our respects to Elders past, present and emerging. We also acknowledge that we are in a climate emergency. We call on those who govern us to implement ambitious policies and practices which prevent the harmful effects of climate change.</p>
 
-			<p>We also acknowledge that we are in a climate emergency. We call on those who govern us to implement ambitious policies and practices which prevent the harmful effects of climate change, as promised in the Paris Climate Change Agreement and outlined in the United Nations’ Sustainable Development Goals. We also ask you to join us in reducing your carbon footprint through the way you source your energy, travel, eat, dress, deal with waste and spend your money and time.</p>
+			<p>Find us at 1/20 Queen Street, Melbourne Victoria 3000</p>
 
 			<span class="footnote">© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
 		</div>

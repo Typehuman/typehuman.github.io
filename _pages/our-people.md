@@ -83,3 +83,5 @@ Our team is passionate about harnessing emerging technology to protect human dig
 		</div>
 	</div>
 </div>
+
+We’re always on the lookout for technologists who are passionate about Web 3 and creating a positive impact on the world around us. If this is you, or you know someone, please don’t hesitate to <a href="mailto:hello@typehuman.com">get in touch</a>.
