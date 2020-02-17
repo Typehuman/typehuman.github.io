@@ -8,16 +8,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Our People'
-      url: '/our-people'
     - title: 'Our Work'
       url: '/projects'
-    - title: 'Philosophy'
+    - title: 'Our People'
+      url: '/our-people'
+    - title: 'Our Philosophy'
       url: '/philosophy'
 
 footer_settings:
-  logo_image: 
-  logo_width: 100
+  logo_image: /images/logo_inverted.png
+  logo_width: 150
   tagline: Navigating technological change for People and Planet
 
 hero_settings:
