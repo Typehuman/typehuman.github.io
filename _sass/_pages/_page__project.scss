@@ -45,11 +45,18 @@
     .project-results__heading {
       margin-top: 0;
       font-size: 23px;
+      @include mq(phonel) {
+        margin-top: 56px;
+      }
     }
 
     img {
       float: left;
       margin-right: 30px;
+      @include mq(phonel) {
+        float: none;
+      }
+      
     }
 
     .clearfix {

@@ -14,7 +14,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 <div class="gallery-about">
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/anthony.jpg" />
+			<img src="/images/team/anthony.jpg" alt="Anthony Cole" />
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Anthony Cole</strong><br />
@@ -24,7 +24,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/asif.jpg" />
+			<img src="/images/team/asif.jpg" alt="Asif Norzai" />
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Asif Norzai</strong><br />
@@ -34,7 +34,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/kaj.jpg">
+			<img src="/images/team/kaj.jpg" alt="Kaj Lofgren">
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Kaj Lofgren</strong><br />
@@ -44,7 +44,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/kate.jpg" />
+			<img src="/images/team/kate.jpg" alt="Kate Buttigieg" />
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Kate Buttigieg</strong><br />
@@ -54,7 +54,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/nick.jpg">
+			<img src="/images/team/nick.jpg" alt="Nick Byrne" >
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Nick Byrne</strong><br />
@@ -64,7 +64,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 	</div>
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/paco.jpg">
+			<img src="/images/team/paco.jpg" alt="Paco Flores" >
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Francisco "Paco" Flores</strong><br />

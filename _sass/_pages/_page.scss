@@ -51,9 +51,13 @@
 	}
 
 	.gallery-about__image {
-		max-width: 190px;
+		max-width: 190px;		
 		overflow: hidden;
 		border-radius: 5px;
 		margin-bottom: 20px;
+		@include mq(phonel) {
+			margin: 0 auto 20px auto;
+		}
+	
 	}
 }
