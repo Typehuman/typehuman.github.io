@@ -15,7 +15,7 @@ The Roadmap highlights a number of case studies across the agriculture, educatio
 3. Ensuring Australia possesses necessary blockchain capabilities, skills and access to capital [3]
 4. Surfacing opportunities where blockchain can support international relationships and trade where bilateral agreements exist [4]
 
-The Department of Industry, Science, Energy and Resources recently released expressions of interest from individuals who would be interested in leading the recommendations in the roadmap. The appointment of this individual will be an important milestone, providing ongoing support to the Australian ecosystem as The Roadmap signposts are pursued.
+In support of The Roadmap, The Department of Industry, Science, Energy and Resources recently released expressions of interest from individuals who would be interested in leading the reports next steps. The appointment of this individual will be an important milestone, providing ongoing support to the Australian ecosystem as The Roadmap signposts are pursued.
 
 The Australian Government should be congratulated for their efforts to increase understanding, and to help individuals and organisations consider the potential application of blockchain. As the document concludes, “…progress will rely on government, industry and the research sector sharing a vision and a focus for the development of blockchain for the whole economy”. In addition, progress will also rely on a preparedness to act and learn from early endeavours. TypeHuman was pleased to contribute to the Roadmap and we look forward to working collaboratively with a range of partners to explore more opportunities for blockchain’s uptake.
 
