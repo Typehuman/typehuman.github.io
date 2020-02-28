@@ -24,7 +24,7 @@ The Australian Government should be congratulated for their efforts to increase 
 Read the full [National Blockchain Roadmap here.](https://www.industry.gov.au/news-media/opportunities-open-up-through-blockchain)
 
 ### Notes
-* [1] Captured via signposts 1, 2, and 4
-* [2] Captured via signposts 3, 5, 6, and 12
-* [3] Captured via signposts 7, 8, 9, and 10
-* [4] Articulated via signpost 11
+* [1] Reflected in signposts 1, 2, and 4
+* [2] Reflected in signposts 3, 5, 6, and 12
+* [3] Reflected in signposts 7, 8, 9, and 10
+* [4] Reflected in signpost 11
