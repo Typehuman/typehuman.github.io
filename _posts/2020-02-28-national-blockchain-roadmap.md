@@ -19,6 +19,7 @@ In support of The Roadmap, The Department of Industry, Science, Energy and Resou
 
 The Australian Government should be congratulated for their efforts to increase understanding, and to help individuals and organisations consider the potential application of blockchain. As the document concludes, “…progress will rely on government, industry and the research sector sharing a vision and a focus for the development of blockchain for the whole economy”. In addition, progress will also rely on a preparedness to act and learn from early endeavours. TypeHuman was pleased to contribute to the Roadmap and we look forward to working collaboratively with a range of partners to explore more opportunities for blockchain’s uptake.
 
+![National Blockchain Roadmap](/images/blog/nbr-report.png "National Blockchain Roadmap Report Cover Page"){: width="25%" }
 
 Read the full [National Blockchain Roadmap here.](https://www.industry.gov.au/news-media/opportunities-open-up-through-blockchain)
 
