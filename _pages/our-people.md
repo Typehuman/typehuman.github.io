@@ -48,7 +48,7 @@ Our team is passionate about harnessing emerging technology to protect human dig
 		</div>
 		<div class="gallery-about__inner">
 			<p><strong>Kate Buttigieg</strong><br />
-			Product Manager<br />
+			Director<br />
 			<a href="https://www.linkedin.com/in/kate-buttigieg-6323a890/">LinkedIn</a></p>
 		</div>
 	</div>
