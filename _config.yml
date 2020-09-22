@@ -39,6 +39,7 @@ defaults:
     values:
       layout: "project"
 
+
 markdown: kramdown
 highlighter: rouge
 
