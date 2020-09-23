@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+<div class="page-post" style="padding-bottom:25px">
+
+	<header class="post__header header--single">
+		
+		<div class="wrap">
+			<h1 class="post__title">{{ page.title }}</h1>
+			<h2 class="post__subtitle subtitle--light">{{ page.subtitle }}</h2>
+		</div>
+
+	</header>
+
+	<section class="about" style="padding-top:30px">
+
+		<div class="wrap grid">
+			<div>
+				<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+					{{ page.content }}
+				</article>
+			</div>
+			<div>
+				<script>
+				  hbspt.forms.create({
+					portalId: "7636821",
+					formId: "23c70969-e7d6-42e7-9371-da6ead58b889"
+				});
+				</script>
+			</div>
+
+		</div>
+
+	</section>
+
+</div>

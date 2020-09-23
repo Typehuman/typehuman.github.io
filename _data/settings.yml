@@ -93,9 +93,9 @@ font_settings:
     size: 64
     size_small: 42
     weight: 700
-    letter_spacing: -1.5
-    letter_spacing_small: -1.2
-    line_height: 72
+    letter_spacing: 0
+    letter_spacing_small: 0
+    line_height: 50
     line_height_small: 48
   h2:
     size: 48
