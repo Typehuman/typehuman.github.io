@@ -12,16 +12,6 @@ Our team is passionate about harnessing emerging technology to protect human dig
 <div class="gallery-about">
 	<div class="gallery-about__item">
 		<div class="gallery-about__image">
-			<img src="/images/team/anthony.jpg" alt="Anthony Cole" />
-		</div>
-		<div class="gallery-about__inner">
-			<p><strong>Anthony Cole</strong><br />
-			Software Developer<br />
-			<a href="https://www.linkedin.com/in/anthonyccole/">LinkedIn</a></p>
-		</div>
-	</div>
-	<div class="gallery-about__item">
-		<div class="gallery-about__image">
 			<img src="/images/team/asif.jpg" alt="Asif Norzai" />
 		</div>
 		<div class="gallery-about__inner">
